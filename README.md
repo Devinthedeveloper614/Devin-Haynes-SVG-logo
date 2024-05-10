@@ -1,7 +1,7 @@
 # Devin Haynes SVG Logo Generator
 
 <br>
-This is an SVG Logo Generator created for the Monash module 10 challenge! 
+This is an SVG Logo Generator! 
 <br>
 
 <br>
@@ -81,5 +81,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 
 ## Instructional Video Link
+https://www.loom.com/share/665dc7ea356648f0bd8427251d499358?sid=b9e86873-fc5d-450e-8432-743f1d219b12
 <br>
 <br>
